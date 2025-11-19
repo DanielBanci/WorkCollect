@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkCollect</string>
+    <string name="title_tasks">Sarcini</string>
+    <string name="title_store">Magazin</string>
+    <string name="title">Titlu</string>
+    <string name="save_task">Salvează sarcină</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkCollect</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_store">Store</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <!-- task related -->
+    <string name="title">Title</string>
+    <string name="save_task">Save task</string>
+</resources>
